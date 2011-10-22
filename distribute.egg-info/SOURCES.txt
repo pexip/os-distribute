@@ -26,6 +26,7 @@ docs/python3.txt
 docs/roadmap.txt
 docs/setuptools.txt
 docs/using.txt
+docs/_templates/indexsidebar.html
 docs/_theme/nature/theme.conf
 docs/_theme/nature/static/nature.css_t
 docs/_theme/nature/static/pygments.css

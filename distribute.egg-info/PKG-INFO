@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: distribute
-Version: 0.6.24
+Version: 0.6.24dev-r0
 Summary: Easily download, build, install, upgrade, and uninstall Python packages
 Home-page: http://packages.python.org/distribute
 Author: The fellowship of the packaging
