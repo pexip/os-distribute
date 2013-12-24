@@ -1,3 +1,9 @@
+distribute (0.6.24-1ubuntu1pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Tue, 24 Dec 2013 14:45:00 +0000
+
 distribute (0.6.24-1ubuntu1) precise; urgency=low
 
   * Stop building for python2.6.
